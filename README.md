@@ -17,6 +17,7 @@
     📘 Breve historia y características de Java
     📘 Configuración del entorno de desarrollo
 
+- Lección de sintáxis básica [sintáxis_básica](basic_syntax/basic_syntax.md)
 ### 2. Conceptos Básicos de POO
 
     📘 Clases y Objetos
