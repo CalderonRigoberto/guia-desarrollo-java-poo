@@ -21,4 +21,4 @@ Los tipos de datos especifican que información puede ser almacenada en una vari
 
 En Java existen los tipos de datos primitivos y los datos no primitivos.
 ¿Cuál es la diferencia entre estos dos tipos datos?
-![Tipo de datos en Java](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.scaler.com%2Ftopics%2Fjava%2Fprimitive-data-types%2F&psig=AOvVaw0LYwGkmkHnAQVhdk4oHitA&ust=1723344045273000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOjsrv-y6YcDFQAAAAAdAAAAABAE)
+![Tipo de datos en Java](https://www.guru99.com/images/java/DataTypes.png)
