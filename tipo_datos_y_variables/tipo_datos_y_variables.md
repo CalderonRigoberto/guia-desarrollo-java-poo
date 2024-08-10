@@ -15,7 +15,7 @@ Para poder usar una variable dentro de tu programa necesitas dos pasos primordia
 
 Estos dos pasos puedes hacerlo en una misma línea, ya lo verás.
 
-Una variable esta conformada por dos cosas, como mencionamos anteriormente el tipo de dato y el nombre de tu variable. Pero antes de todo, ¿qué carajo que son los tipos de datos?
+Una variable esta conformada por dos cosas, como mencionamos anteriormente el tipo de dato y el nombre de tu variable. Pero antes de todo, ¿qué carajo son los tipos de datos?
 
 Los tipos de datos especifican que información puede ser almacenada en una variable y que tamaño permite almacenar.
 
