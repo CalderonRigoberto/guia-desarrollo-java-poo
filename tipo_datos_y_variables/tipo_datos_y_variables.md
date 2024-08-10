@@ -55,7 +55,7 @@ byte → Byte
 short → Short
 
 
-Ahora te mostraré un ejemplo de como declarar una variable y como inicializarla. Aun así podrás encontrar más ejemplos en código [AQUI](TiposDatosVariables.java).
+Ahora te mostraré un ejemplo de como declarar una variable y como inicializarla. Aun así podrás encontrar más ejemplos en código [AQUI](TipoDatosVariables.java).
 
 ```java
 // Declarar una variable
