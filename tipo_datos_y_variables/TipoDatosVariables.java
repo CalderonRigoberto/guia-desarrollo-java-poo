@@ -60,5 +60,13 @@ public class TipoDatosVariables {
         System.out.println(intNoPrimitivo.intValue());
         System.out.println(intNoPrimitivo.toString());
         System.out.println(intNoPrimitivo.compareTo(4));
+
+        Integer dos = 3;
+        Integer tres = dos;
+        dos = 4;
+        tres = 6;
+        
+        System.out.println(tres);
+        System.out.println(dos);
     }
 }

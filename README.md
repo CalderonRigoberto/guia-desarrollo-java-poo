@@ -19,6 +19,7 @@
 
 - Lección de sintáxis básica [sintáxis_básica](basic_syntax/basic_syntax.md)
 - Lección de variables y tipos de datos [variables_tipos_datos](tipo_datos_y_variables/tipo_datos_y_variables.md)
+- Lección de condicionales [condicionales](condicionales/condicionales.md)
 
 ### 2. Conceptos Básicos de POO
 
